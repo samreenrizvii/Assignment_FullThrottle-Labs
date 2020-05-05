@@ -1,0 +1,11 @@
+This project comprise of the assignment given by FullThrottle Labs.
+Following is the step by step procedure to get the desired result.
+Create a virtaul environment in the command prompt and install Django.
+Then comes creation of project and app. Followed by including app name in settings.py
+Model is then created according to the situation like I was given for user and date and timee
+The model is migrated to SQLlite or any other type of database followed by dataloading.
+Then Django REST Framework JSON API is installes and mentioned in settings.py
+After that naother script was made sterlizer.py.
+Then comes changes in views.py and urls.py.
+https://howtojsonapi.com/django.html can be followed for the tutorial.
+It is the simpleast among all.
